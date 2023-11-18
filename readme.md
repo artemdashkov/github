@@ -64,11 +64,11 @@ term
 
 That is so funny! :joy:
 
-I need to highlight these ==very important words==.
+I need to highlight these ==very important words==
 
 H~2~O
 
-X^2^
+X^2
 
 ## [Center](#center)
 
@@ -78,6 +78,14 @@ X^2^
   "lastName": "Smith",
   "age": 25
 }
+```
+
+<<<
+any code
+>>>
+
+```
+any code 2
 ```
 
 | Syntax | Description |
