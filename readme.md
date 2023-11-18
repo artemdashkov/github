@@ -52,3 +52,42 @@ text_3
 link_1(#link_1)
 
 #link_1 here
+
+term
+: definition
+
+~~The world is flat.~~
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+That is so funny! :joy:
+
+I need to highlight these ==very important words==.
+
+H~2~O
+
+X^2^
+
+## [Center](#center)
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+#### Table of Contents
+
+- [Underline](#underline)
+- [Indent](#indent)
+- [Center](#center)
+- [Color](#color)
