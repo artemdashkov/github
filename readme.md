@@ -33,28 +33,14 @@ text_1
 
 ---
 
-text_1
-
-
 text_2
 
 ***
-
-text_2
-
 
 text_3
 
 _________________
 
-text_3
-
-link_1(#link_1)
-
-#link_1 here
-
-term
-: definition
 
 ~~The world is flat.~~
 
@@ -64,30 +50,12 @@ term
 
 That is so funny! :joy:
 
-I need to highlight these ==very important words==
-
-H~2~O
-
-X^2
-
 ## [Center](#center)
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-<<<
-any code
->>>
 
 ```
 any code 2
 ```
-
+### Table №1
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
