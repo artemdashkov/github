@@ -130,11 +130,14 @@ git branch
 git branch -a
 	-показать все ветки
 
-git branch -m master main
-	-переименовать ветку в соответствии 
+git branch -m first_name second_name
+	-переименовать ветку first_name в second_name
 
 git branch card_pay
 	-перейти на ветку "card_pay" если она существует. в случае отсутствия ветки создаст новую.
+	
+git branch -d second_branch
+	-удалить ветку с локального репозитория
 
 git checkout first_branch
 	-переключиться на ветку first_branch
@@ -148,15 +151,9 @@ git checkout -main
 
 git checkout -b card_pay
 	- создать ветку card_pay и сразу в нее перейти
-
-git branch -m first_name second_name
-	-переименовать ветку first_name в second_name
 	
 git push origin :second_name
 	-удалить ветку с удаленного репозитория
-	
-git branch -d second_branch
-	-удалить ветку с локального репозитория
 	
 git fetch origin second_branch
 	-восстановить на локальном репозитории удаленную ветку из удаленного репозитория. чтобы ветка появилась на локальном репозитории необходимо перейти в ветку git checkout second_branch
