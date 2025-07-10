@@ -42,7 +42,7 @@ user.namr=artemdashkov
         file_1.txt						-означает что в системе отсутствует файл
 
 	Changes to be committed:
-		(use "git rm --cached <file>..." to unstage)
+		(use "git rm --cached <file>..." to unstage)		- означает убрать из отслеживания в гит
         new file:   file_1.txt			-означает что файл внесен в систему
 
 	No commits yet
